@@ -1,2 +1,2 @@
 Testing git bash
-this is testBranch1
+this is testBranch2
