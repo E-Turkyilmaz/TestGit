@@ -1,2 +1,3 @@
+I added this info
 Testing git bash
 this is testBranch2
